@@ -1,7 +1,0 @@
-*.log
-npm-debug.log*
-
-node_modules
-dist
-bower_components
-npm-debug.log
